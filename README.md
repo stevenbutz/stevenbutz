@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stevenbutz
 - 👀 I’m interested in machine learning, data, and the stock market. 
 - 🌱 I’m currently learning C, and perfecting my understanding data structures and algorithms.
-- 💞 I’m looking to collaborate on any projects surrounding A.I. and libraries such as PyTorch and TensorFlow. 
+- 💞 I’m looking to collaborate on any projects surrounding machine learning.
 - 📫 Reach out to me at stevenpbutz@gmail.com.
 
 <!---
